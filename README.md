@@ -1,2 +1,5 @@
-# UofManitoba-Competitive-Programming.github.io
- Website Comittee is Litty RN 🔥 February 2016 #longlivevine
+# University of Manitoba Competitive Programming
+Welcome!
+
+
+## **UNDER CONSTRUCTION!**
