@@ -1,6 +1,6 @@
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
-title: UMCP Podcast Updates
-description: Listen to the latest podcast episodes here!
+title: University of Manitoba Competitive Programming
+description: UMCP Podcast Updates
 author: University of Manitoba Competitive Programming
